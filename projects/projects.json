@@ -3647,6 +3647,29 @@
         "Static",
         "Responsive"
       ]
+    },
+    {
+      "name": "Taiga",
+      "thumb": "taiga/thumb.png",
+      "desc": "Taiga is an open source project management platform for startups and agile developers & designers who want a simple, beautiful tool that makes work truly enjoyable.",
+      "url": "https://taiga.io",
+      "info": "https://blog.taiga.io/",
+      "src": "https://github.com/taigaio",
+      "submitter": "taigaio",
+      "submissionDate": "2015-02-23",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Project Management",
+        "Agile",
+        "UI Design",
+        "Usability",
+        "jQuery",
+        "Open Source",
+        "CSS3",
+        "Jade",
+        "SCSS"
+      ]
     }
 
   ]
